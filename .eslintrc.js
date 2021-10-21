@@ -5,8 +5,8 @@ module.exports = {
   },
   extends: [
     'plugin:react/recommended',
-    'airbnb',
-    'airbnb-base',
+//     'airbnb',
+//     'airbnb-base',
   ],
   globals: {
     Atomics: 'readonly',
